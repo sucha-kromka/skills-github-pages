@@ -1,5 +1,5 @@
 ---
-title: Siemaneczko ziomeczki, witam na moim blogu!
+
 ---
 # Piątek, piąteczek, piątunio #
 Moje cele na dziś:
